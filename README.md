@@ -7,3 +7,5 @@ BAGAIMANA CARA MENGGUNAKANNYA?
 1. download filenya
 2. buka lewat visual studio code
 3. pilih format html dan jalankan live server (jangan lupa instal extension live server terlebih dahulu)
+
+   link project = https://randy46.github.io/tugas-6/
